@@ -1,6 +1,6 @@
 # If Airbnb used a RDMS
 
-This database project implements a relational database for an Airbnb case study.
+This database project implements a relational database for an Airbnb case study. Worked on this project with two other teammates.
 
 ## Setup & Run
 
